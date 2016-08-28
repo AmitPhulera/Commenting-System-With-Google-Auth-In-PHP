@@ -1,4 +1,3 @@
-DitClubs
+Commenting System Backed With Google O-Auth
 ========
-Working up on API to keep all DIT clubs at one place
-Best Of Luck Guys :)
+A commenting system built in php with Google OAuth enabled for  authentication of users.
